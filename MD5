@@ -1,0 +1,11 @@
+59cd58179d77716659044bbec2c37117 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+4aee2843da2b46e4c4c9fb87c0621f45 *R/envl.plot.R
+a8d688dd171838cd40f3ae4583026324 *R/envl.pval.R
+e137ab34d39afa992eb0669c8ee14e81 *R/firstlib.r
+dc43f211b25a7d4517b4928a9f5b4f78 *R/qqenvl.R
+8d051e7a1b34766ffdabf05f8e757f40 *man/envelope-package.Rd
+069f176bdaa62e2e6e5db1ae5c24bed7 *man/envl.plot.Rd
+d15a776ca447c77591c429d87fd299e9 *man/envl.pval.Rd
+8fd57db02d79f0e46ee67cb5a855b618 *man/qqenvl.Rd
+d4aa07dac937d77b875b7c2e6fc9f6e0 *src/envelope.cpp
